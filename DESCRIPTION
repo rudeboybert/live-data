@@ -13,5 +13,6 @@ Imports:
   ggplot2,
   dplyr,
   tidyr,
+  readr
 URL: https://github.com/rudeboybert/livedata
 BugReports: https://github.com/rudeboybert/livedata/issues
