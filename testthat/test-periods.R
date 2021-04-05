@@ -1,9 +1,9 @@
 library(testthat)
 library(dplyr)
+library(readr)
 context("checks that period values are valid")
 
-base_data <- read.csv('../data/rodent_abundance.csv',
-                      stringsAsFactors = F)
+base_data <- read_csv("../data/data.csv")
 
 test_that("period numbers are valid", {
 
