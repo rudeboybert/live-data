@@ -1,0 +1,15 @@
+Package: livedata
+Title: Testing livedata
+Description: Testing livedata
+License: MIT + file LICENSE
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given = "Ethan", family = "White", role = "aut", email = "ethan@weecology.org",comment = c(ORCID = "0000-0001-6728-7745")),
+    person(given = c("Glenda", "M."), family = "Yenni", role = c("aut"), comment = c(ORCID = "0000-0001-6969-1848")),
+    person(given = c("Albert", "Y."), family = "Kim", email = "albert.ys.kim@gmail.com", role = c("aut"), comment = c(ORCID = "0000-0001-7824-306X"))
+    )
+Depends: R (>= 4.0.1)
+Imports:
+  knitr
+URL: https://github.com/rudeboybert/livedata
+BugReports: https://github.com/rudeboybert/livedata/issues
