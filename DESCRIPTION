@@ -17,4 +17,3 @@ Imports:
   readr
 URL: https://github.com/rudeboybert/livedata
 BugReports: https://github.com/rudeboybert/livedata/issues
-Config/testthat/edition: 3
