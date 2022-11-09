@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/weecology/livedat.svg?branch=master)](https://travis-ci.org/weecology/livedat)
-[![License](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://raw.githubusercontent.com/weecology/livedat/master/LICENSE)
+[![data-tests](https://github.com/rudeboybert/live-data/workflows/data-tests/badge.svg)](https://github.com/rudeboybert/live-data/actions)
 
 # livedat
 
